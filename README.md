@@ -1,2 +1,2 @@
 # cloudimg
-tuku
+picgo + github
